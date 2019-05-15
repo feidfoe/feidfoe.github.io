@@ -5,8 +5,8 @@ body {
     font-size: 15px;
     line-height: 21px;
     color: rgb(48, 48, 48);
-    border-top: 5px solid #516390;
-    border-bottom: 5px solid #516390;
+    border-top: 5px solid #49a473;
+    border-bottom: 5px solid #49a473;
 }
 
 .container {
@@ -45,7 +45,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #516390;
+    color: #49a473;
 }
 
 header > h1 {

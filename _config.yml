@@ -14,23 +14,19 @@ author: Simon Schwab
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Simon Schwab
-name: Simon Schwab
-email: simon.schwab@uzh.ch
-email_full: mailto:simon.schwab@uzh.ch
+title: Byungju Kim
+name: Byungju Kim
+email: feidfoe@kaist.ac.kr
+email_full: mailto:feidfoe@kaist.ac.kr
 website: feidfoe.github.io
 website_full: https://feidfoe.github.io
-github: schw4b
-twitter: SimonSchw4b
+github: feidfoe
 # tel: +44 (0)24 7657 3665
 # tel_full: tel:+440000000000
-google_maps: 'https://goo.gl/maps/bKEm3tdhccmZRhMi8'
-department: Center for Reproducible Science
-institution: University of Zurich
-address: Hirschengraben 84
-postcode: 8001
-city: Zurich
-country: Switzerland
+google_maps: 'https://goo.gl/maps/yZctsHukQyBHa9Dt8'
+department: Department of Electric Engineering
+institution: KAIST
+country: Korea, Republic of
 google_analytics: UA-72106507-1
 
 # needed for travis-ci build

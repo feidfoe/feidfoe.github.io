@@ -28,6 +28,9 @@ department: Department of Electric Engineering
 institution: KAIST
 country: Korea, Republic of
 google_analytics: UA-72106507-1
+institue_web: 'https://www.kaist.ac.kr/html/en/index.html'
+department_web: 'https://ee.kaist.ac.kr/?language=en'
+
 
 # needed for travis-ci build
 exclude: [vendor]
